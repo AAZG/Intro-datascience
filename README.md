@@ -1,7 +1,7 @@
 # Proyecto Data Science sobre Pokemon
 
 Utilizamos un datasets con datos de 1044 pokemon, que en teoria deberian ser todos los pokemon existentes hasta la 8va generacion. 
-La fuente de estos datasets son muy posiblemente kaggle, el mismo fue suministrado en un curso de introduccion al DataScience de la academia mastermind ![Mastermind](https://www.mastermind.ac/courses/intro-datascience).
+La fuente de estos datasets son muy posiblemente kaggle, el mismo fue suministrado en un curso de introduccion al DataScience de la academia [Mastermind](https://www.mastermind.ac/courses/intro-datascience).
 
 
 ## Motivacion.
