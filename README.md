@@ -1,6 +1,6 @@
 # Curso de introduccion a la ciencia de datos
 
-En este curso se aprendio desde lo basico de Markdown y sus comandos, las librerias numpy y pandas, tambien las librerias de visualizacion matplotlib, seaborn y Plotly. Y por ultimo se desarrollo un proyecto di ciencia de datos donde se aplicaron todos los conocimientos aprendidos. A continuacion se desarrollara de manera mas detallada de que va este proyecto, ya que es la parte interesante de este repositorio.
+En este curso se aprendio desde lo basico de Markdown y sus comandos, las librerias numpy y pandas, tambien las librerias de visualizacion matplotlib, seaborn y Plotly. Y por ultimo se desarrollo un proyecto de ciencia de datos donde se aplicaron todos los conocimientos aprendidos. A continuacion se desarrollara de manera mas detallada de que va este proyecto, ya que es la parte interesante de este repositorio.
 
 
 # Proyecto Data Science sobre Pokemon
