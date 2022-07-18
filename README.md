@@ -39,6 +39,10 @@ A arreglar datos de mis dataset, a lidiar con outliders, con NaN, hacer cambio d
 El proyecto se realizo de manera individual como parte final del curso de introduccion a la ciencia de datos de la academia mastermind, se avanzo muchas veces sin ayuda de las clases, aunque se apoyo otras veces en las clases para comparar y/o resolver dudas. El codigo fue escrito 100% por mi persona, no se copio codigo de los notebooks de las clases del curso, igualmente se dejan en una carpeta llamada 'Notebook del curso' todos los notebooks que aparecian para descarga, sientase libre de revisarlos. 
 
 
+## Puedes utilizar Deepnote para trabajar interactivamente con los notebooks siguiendo el enlace de este botón:
+[<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook.svg">](https://deepnote.com/@aazg/Curso-ciencia-de-datos-Mastermind-d7c5fd95-7b78-43ee-8bac-dfafdd1bd85a)
+
+
 ## Licencia.
 Este proyecto es OpenSource, siente en libertad de copiarlo y mejorarlo tanto como deesees.
 
